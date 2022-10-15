@@ -20,7 +20,7 @@
 
 - Junyoung Son: Has great ideas, easy going and fast typer good understanding of how to navigate github.
 
-- Timothee Odushina
+- Timothee Odushina: Very flexible to changes, and good searching ressources to resolves issues.
 
 - Keelen Fisher: API Implementation, Route creation and file structure
 
@@ -32,7 +32,7 @@
 
 - Junyoung Son: Help the team get on track and stay organized by keeping documentation of things.
 
-- Timothee Odushina
+- Timothee Odushina: Help my team for debugging issues and stay organize. 
 
 - Keelen Fisher: Handle some of the feature tasks that require routing and structure of the application.
 
@@ -44,7 +44,7 @@
 
 - Junyoung Son: Understanding the use of APIs better. I never got my weather app in 301 to work.
 
-- Timothee Odushina
+- Timothee Odushina: Self-confidence and public speaking.
 
 - Keelen Fisher: Communication, Self-Awareness, Social-Awareness, and Decision-Making
 
