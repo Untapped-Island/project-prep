@@ -61,7 +61,7 @@ A user can read/view other users portfolio(s)
 
 From the time the user begins using the app:
 
-![uml](UntappedIsland.jpg)
+![uml](UntappedIsland.png)
 
 To the time the user is done with the app:
 
