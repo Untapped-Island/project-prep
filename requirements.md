@@ -1,16 +1,14 @@
-# Software Requirements
+# Vision
 
-## Vision
-
-### What is the vision of this product?
+## What is the vision of this product?
 
 Buld an application that is a card collection portfolio for all users who are interested in trading card games. Users can search all cards through a (3rd party Dataset) and add any of their choosing to their portfolio. They can then set them into their portfolio to view and remove if desired
 
-### What pain point does this project solve?
+## What pain point does this project solve?
 
 This solves the isssue of collecting cards that you own and trying to learn about every feature of each card. This can also help you to easily access cards that you have recently added to your collection into a portfolio of your own without having to manually add all of the featured detatils yourself, effectively saving you plenty time.
 
-### Why should we care about your product?
+## Why should we care about your product?
 
  If you are a fan of any kind of card games (which can count for about 80% of the word), our algoritm an implementation for this project can be used for your own card games, maximizing opportunities to create more order and fun for the games that you love.
 
@@ -47,7 +45,7 @@ Open API Discord Bot
 Use Trulioo for text message
 A person can come into the server, must be a verified player by passing a test of 10 indentifying questions in order to be an official user. Once the person passes only then are they given a key/invitation link to sign up with their own account.
 
-## Functional Requirements
+#### Functional Requirements
 
 An admin/developer can create and delete user accounts
 An admin/developer can update the card database by using a lambda function to parse new data and feed data into the databse
@@ -57,15 +55,15 @@ A user can add card(s) to their portfolio
 A user can remove card(s) to their portfolio
 A user can read/view other users portfolio(s)
 
-### Data Flow
+#### Data Flow
 
 From the time the user begins using the app:
 
-![uml](UntappedIsland.png)
+[UMLLink](https://www.figma.com/file/pU5zAGa9qfwAkMTPjYtA8Z/UntappedIsland?node-id=27%3A1292)
 
 To the time the user is done with the app:
 
-## Non-Functional Requirements
+##### Non-Functional Requirements
 
 Security
 0Auth is implemented successfully.
